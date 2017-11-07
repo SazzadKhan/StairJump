@@ -1,4 +1,4 @@
 # StairJump
 Physics based Jump game.
 puzzle platformer.
-moile game
+Target Platform : Android & IOS
