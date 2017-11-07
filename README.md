@@ -1,2 +1,4 @@
 # StairJump
-Physics based Jump game
+Physics based Jump game.
+puzzle platformer.
+moile game
